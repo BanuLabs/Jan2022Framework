@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-11T20:14:40 IST" name="Default suite" finished-at="2022-04-11T20:15:40 IST" duration-ms="60261">
+    <groups>
+    </groups>
+    <test started-at="2022-04-11T20:14:40 IST" name="Default test" finished-at="2022-04-11T20:15:40 IST" duration-ms="60261">
+      <class name="com.qa.rcade.tests.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.rcade.tests.LoginPageTest@4a94ee4]" started-at="2022-04-11T20:14:40 IST" name="setup" finished-at="2022-04-11T20:15:37 IST" duration-ms="57477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.qa.rcade.tests.LoginPageTest@4a94ee4]" started-at="2022-04-11T20:15:37 IST" name="loginPageTitleTest" finished-at="2022-04-11T20:15:37 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageUrlTest()[pri:0, instance:com.qa.rcade.tests.LoginPageTest@4a94ee4]" started-at="2022-04-11T20:15:37 IST" name="loginPageUrlTest" finished-at="2022-04-11T20:15:38 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageUrlTest -->
+        <test-method signature="loginTest()[pri:0, instance:com.qa.rcade.tests.LoginPageTest@4a94ee4]" started-at="2022-04-11T20:15:38 IST" name="loginTest" finished-at="2022-04-11T20:15:39 IST" duration-ms="1163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.rcade.tests.LoginPageTest@4a94ee4]" started-at="2022-04-11T20:15:39 IST" name="tearDown" finished-at="2022-04-11T20:15:40 IST" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.rcade.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
