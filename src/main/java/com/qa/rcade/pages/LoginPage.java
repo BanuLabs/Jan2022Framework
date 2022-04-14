@@ -11,6 +11,7 @@ public class LoginPage {
 	private By emailId = By.id("UserName");
 	private By submit = By.id("btnSubmit");
 	private By newUserRegister = By.xpath("//span[@id=\"lnkRegisterd\"]");
+	private By myrepo = By.xpath("//img[@classs=\"main\"]");
 	
 	
 	// 2. public page class constructor: -
